@@ -1,0 +1,40 @@
+@font-face {
+  font-family: '汉仪菱心体简';
+  src:  url('汉仪菱心体简.ttf');
+}
+@font-face {
+  font-family: '锐字逼格青春体简';
+  src:  url('锐字逼格青春体简2.0.TTF');
+}
+@font-face {
+  font-family: 'UnidreamLED';
+  src: url('UnidreamLED.ttf');
+}
+@font-face {
+  font-family: 'fzcy_gbk-webfont';
+  src: url('fzcy_gbk-webfont.woff') format('woff');
+}
+@font-face {
+  font-family: 'AGENCYR';
+  src: url('AGENCYR.TTF');
+}
+@font-face {
+  font-family: 'AGENCYB';
+  src: url('AGENCYB.TTF');
+}
+@font-face {
+  font-family: 'DIN';
+  src: url('DIN-Bold.otf');
+}
+@font-face {
+  font-family: 'led16sgmnt2-Italic';
+  src: url('led16sgmnt2-Italic-1.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'led16sgmnt2-Regular';
+  src: url('led16sgmnt2-Regular-2.ttf') format('truetype');
+}
+@font-face {
+  font-family: '优设标题黑';
+  src: url('优设标题黑.ttf') format('truetype');
+}
